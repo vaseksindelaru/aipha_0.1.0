@@ -1,0 +1,34 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Logs
+*.log
+logs/
+
+# Data files
+*.csv
+data/
+
+# Credentials and secrets
+oauth_client_secret.json.json
+client_secret*.json
+*credentials*
+*.exe
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+*.zip
+*.jpg
